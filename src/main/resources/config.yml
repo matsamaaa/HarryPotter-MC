@@ -1,0 +1,22 @@
+name: HarryPotter
+prefix: "&f[&3HP&f] &d"
+
+world: world
+spawn:
+  x: 259
+  y: 113
+  z: 151
+  pitch: 178.6
+  yaw: 2.9
+lobby:
+  x: 259
+  y: 113
+  z: 137
+  pitch: 31
+  yaw: -15
+game:
+  x: 259
+  y: 126
+  z: 144
+  pitch: 31
+  yaw: -15

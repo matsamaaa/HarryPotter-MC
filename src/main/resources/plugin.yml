@@ -1,0 +1,20 @@
+name: HarryPotter
+version: '${project.version}'
+main: mat_sama.harrypotter.HarryPotter
+api-version: 1.15
+prefix: HPGame
+authors: [ mat_sama ]
+website: https://github.com/matsamaaa
+commands:
+  hpcreate:
+    description: Create a game of HarryPotter
+    aliases: hpc
+    usages: /hpcreate
+  hpjoin:
+    description: Join a game of HarryPotter
+    aliases: hpj
+    usage: /hpjoin
+  hpleave:
+    description: Leave a game of HarryPotter
+    aliases: hpl
+    usage: /hpleave
